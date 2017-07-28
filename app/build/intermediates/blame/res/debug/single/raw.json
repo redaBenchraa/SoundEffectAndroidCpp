@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/build/intermediates/res/merged/debug/raw/nuyorica.m4a",
+        "source": "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/src/main/res/raw/nuyorica.m4a"
+    },
+    {
+        "merged": "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/build/intermediates/res/merged/debug/raw/lycka.mp3",
+        "source": "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/src/main/res/raw/lycka.mp3"
+    }
+]

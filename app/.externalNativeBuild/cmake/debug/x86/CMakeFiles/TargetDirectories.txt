@@ -1,0 +1,3 @@
+/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/SuperpoweredExample.dir

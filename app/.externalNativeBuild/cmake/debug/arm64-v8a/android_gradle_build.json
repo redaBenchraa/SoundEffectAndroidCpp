@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/home/reda-benchraa/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SuperpoweredExample-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "SuperpoweredExample",
+			"buildCommand" : "/home/reda-benchraa/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/arm64-v8a --target SuperpoweredExample",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/home/reda-benchraa/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/reda-benchraa/Android/Sdk/ndk-bundle/sysroot  -DSuperpoweredExample_EXPORTS -I/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/src/main/jni/src/main/jni -I/home/reda-benchraa/Desktop/SuperpoweredSDK/Superpowered -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -fsigned-char -I/home/reda-benchraa/Desktop/SuperpoweredSDK/Superpowered -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/src/main/jni/SuperpoweredExample.cpp",
+					"workingDirectory" : "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/home/reda-benchraa/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64 --sysroot=/home/reda-benchraa/Android/Sdk/ndk-bundle/sysroot  -DSuperpoweredExample_EXPORTS -I/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/src/main/jni/src/main/jni -I/home/reda-benchraa/Desktop/SuperpoweredSDK/Superpowered -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /home/reda-benchraa/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -fsigned-char -I/home/reda-benchraa/Desktop/SuperpoweredSDK/Superpowered -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/reda-benchraa/Desktop/SuperpoweredSDK/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "/home/reda-benchraa/Desktop/SuperpoweredSDK/Examples_Android/CrossExample/app/build/intermediates/cmake/debug/obj/arm64-v8a/libSuperpoweredExample.so",
+			"toolchain" : "17060939483954617738"
+		}
+	},
+	"toolchains" : 
+	{
+		"17060939483954617738" : 
+		{
+			"cCompilerExecutable" : "/home/reda-benchraa/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/reda-benchraa/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}
